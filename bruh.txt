@@ -4,7 +4,19 @@ cloned from GH
 created bruh.txt
 added this text to bruh.txt
 
-created and switched to branch: new-branch
+created and switched to 'new-branch'
 
-switched to branch: main
+switched to 'main'
 currently commiting and pushing
+
+finished pushing
+switched to 'new-branch'
+can't switch back to 'main' since bruh.txt is untracked on 'new-branch'
+currently commiting and pushing
+
+finished pushing
+can't switch back to 'main'. changes need to be committed before switching.
+currently committing and pushing
+
+final commit and push before attempting merge 'main' with 'new-branch'
+
