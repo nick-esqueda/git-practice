@@ -15,3 +15,7 @@ finished pushing
 switched to 'new-branch'
 can't switch back to 'main' since bruh.txt is untracked on 'new-branch'
 currently commiting and pushing
+
+finished pushing
+can't switch back to 'main'. changes need to be committed before switching.
+currently committing and pushing
