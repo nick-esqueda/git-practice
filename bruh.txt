@@ -1,7 +1,5 @@
 bruh
 
-//hello from new-branch, 1st commit!
-
 cloned from GH
 created bruh.txt
 added this text to bruh.txt
@@ -21,3 +19,4 @@ can't switch back to 'main'. changes need to be committed before switching.
 currently committing and pushing
 
 final commit and push before attempting merge 'main' with 'new-branch'
+
