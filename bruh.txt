@@ -1,0 +1,10 @@
+bruh
+
+cloned from GH
+created bruh.txt
+added this text to bruh.txt
+
+created and switched to branch: new-branch
+
+switched to branch: main
+currently commiting and pushing
