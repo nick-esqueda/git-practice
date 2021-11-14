@@ -20,3 +20,9 @@ currently committing and pushing
 
 final commit and push before attempting merge 'main' with 'new-branch'
 
+opened pull request, fixed the merge conflict by commiting the fixes to
+'new-branch', merged pull request (merged 'main' with 'new-branch'),
+deleted 'new-branch', then used git command 'git pull origin main'
+to update local main branch with the GH repo's main branch
+
+currently commiting and pushing this text ^ back to origin main.
